@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DromTest.iml" filepath="$PROJECT_DIR$/.idea/DromTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DromAutotest1/selenium-tests.iml" filepath="$PROJECT_DIR$/DromAutotest1/selenium-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DromAutotest2/selenium-tests (1).iml" filepath="$PROJECT_DIR$/DromAutotest2/selenium-tests (1).iml" />
+    </modules>
+  </component>
+</project>
